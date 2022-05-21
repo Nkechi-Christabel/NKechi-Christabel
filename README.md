@@ -3,7 +3,7 @@
 </div>
 <div id="badges" align="center" padding="8">
   <a href="https://nkechi-udenkwor.netlify.app/">
-    <img src="https://img.shields.io/badge/Portfolio-darkgreen?style=for-the-badge&logo=react&logoColor=white" alt="React Badge"/>
+    <img src="https://img.shields.io/badge/Portfolio-23555f?style=for-the-badge&logo=react&logoColor=white" alt="React Badge"/>
   </a>
   <a href="https://www.linkedin.com/in/nkechi-udenkwor-06b622198/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -29,7 +29,7 @@
 
 I am a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Nigeria.
 
-- :telescope: I’m working as a Software Engineer with focus on Front-end web development and fullsatck development in view.
+- :telescope: I’m  currently working as a Front-end web developer but with fullsatck development in view.
 
 - :zap: In my free time, I solve problems on CodeWars and read tech articles.
 
