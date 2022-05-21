@@ -29,7 +29,7 @@
 
 I am a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Nigeria.
 
-- :telescope: I’m  currently working as a Front-end web developer but with fullsatck development in view.
+- :telescope: I’m  currently working as a Front-end web developer with fullsatck development in view.
 
 - :zap: In my free time, I solve problems on CodeWars and read tech articles.
 
