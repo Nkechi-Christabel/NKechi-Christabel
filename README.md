@@ -20,7 +20,7 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>, &nbsp; I'm Nkechi Udenkwor</h1>
 
 <div align="center" width="100%">
-  <img src="https://media.giphy.com/media/xT0Gqn9yuw8hnPGn5K/giphy.gif" width="800" height="400"/>
+  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="800" height="400"/>
 </div>
 
 ---
