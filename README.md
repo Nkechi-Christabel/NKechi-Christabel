@@ -67,5 +67,3 @@ I am a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 </p>
 
-
-
