@@ -30,7 +30,7 @@
 
 I am a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Nigeria.
 
-- 🌱 I’m currently learning **Node.js**
+- 🌱 I’m currently learning **Node.js**.
 
 - :telescope: I've always been a Front end developer, but i'm now picking up backend, to become a full stack developer.
 
