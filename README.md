@@ -32,7 +32,7 @@ I am a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 
 - 🌱 I’m currently learning C-Programming.
 
-/*- :telescope: I've always been a Front end developer, but I'm now picking up the backend, to become a full-stack developer.*/
+//- :telescope: I've always been a Front end developer, but I'm now picking up the backend, to become a full-stack developer.
 
 - :zap: In my free time, I solve problems on CodeWars and read tech articles.
 
